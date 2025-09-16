@@ -7,56 +7,64 @@
 
 ---
 
-Programming Languages  
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="Kotlin"/></a>
-</p>
+### Programming Languages  
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="45"/><br>C#</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="45"/><br>Kotlin</td>
+  </tr>
+</table>
 
 ---
 
-Frameworks & Tools  
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React Native"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/></a>
-</p>
+### Frameworks & Tools  
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React Native</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>NodeJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman</td>
+  </tr>
+</table>
 
 ---
 
-Databases  
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/></a>
-</p>
+### Databases  
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+  </tr>
+</table>
 
 ---
 
-Other Skills  
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/></a></t>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/></a>
-</p>
+### Other Skills  
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="45"/><br>Arduino</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=blender" width="45"/><br>Blender</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
+  </tr>
+</table>
 
 ---
 
-My Stats  
+### My Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathuraabeysinghe&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/></t>
+  <img src="https://github-readme-stats.vercel.app/api?username=chathuraabeysinghe&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathuraabeysinghe&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
