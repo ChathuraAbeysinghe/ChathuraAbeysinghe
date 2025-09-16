@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋,<br> I'm Chathura Abeysinghe</h1>
-<!--<h3 align="center">A passionate Frontend Developer from Sri Lanka</h3>-->
+<!--<h3 align="center">A passionate Frontend Developer from Sri Lanka</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=chathuraabeysinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathuraabeysinghe" />
-</p>
-
----
+</p>-->
 
 ### Programming Languages  
 <p align="center">
