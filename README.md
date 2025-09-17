@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋,<br> I'm Chathura Abeysinghe</h1>
+<table align="center">
+  <tr>
+    <td align="center" width="100%" background="https://images.unsplash.com/photo-1537432376769-00a0e9f682a2?auto=format&fit=crop&w=1050&q=80" style="background-size: cover; height: 200px;">
+      <h1 style="color: white;">Hi 👋,<br> I'm Chathura Abeysinghe</h1>
+    </td>
+  </tr>
+</table>
+
 <!--<h3 align="center">A passionate Frontend Developer from Sri Lanka</h3>
 
 <!--<p align="center">
