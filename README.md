@@ -128,7 +128,7 @@ Motivated and detail-oriented undergraduate student working towards a **Bachelor
 
 <br/>
 
-<!-- ===== TROPHIES CARD ===== -->
+<!-- ===== TROPHIES CARD 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:6c3ce9&height=3&width=100%25"/>
 </div>
@@ -144,9 +144,9 @@ Motivated and detail-oriented undergraduate student working towards a **Bachelor
 </tr>
 </table>
 
-<br/>
+<br/> ===== -->
 
-<!-- ===== SNAKE CARD ===== -->
+<!-- ===== SNAKE CARD ===== 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3ce9,100:00d9ff&height=3&width=100%25"/>
 </div>
@@ -162,7 +162,7 @@ Motivated and detail-oriented undergraduate student working towards a **Bachelor
 </tr>
 </table>
 
-<br/>
+<br/> ===== -->
 
 <!-- ===== PROFESSIONAL FOOTER ===== -->
 <div align="center">
